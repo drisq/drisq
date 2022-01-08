@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drisq)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drisq)](https://github.com/anuraghazra/github-readme-stats)
+### I am a Software Engineer who works mostly on backend. I write code in PHP, Python, and Kotlin. I also love tinkering with servers using GNU packages. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drisq)](https://github.com/anuraghazra/github-readme-stats) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drisq)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **drisq/drisq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
