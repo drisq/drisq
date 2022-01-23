@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am a Software Engineer who works mostly on backend. I write code in PHP, Python, and Kotlin. I also love automating stuff using shell scripts. 
+### I am a Software Engineer who works mostly on backend. I write code in PHP and Python. I also love automating stuff using shell scripts. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drisq)](https://github.com/anuraghazra/github-readme-stats) 
 
